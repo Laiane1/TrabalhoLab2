@@ -5,7 +5,7 @@
 
 int main() {
 
-  int jogador, computador, pedra, papel, tesoura, lagarto, spock, saida = 6;
+  int jogador, computador, saida = 6;
 
   while (saida == 6) {
     printf("\nEscolha uma opção:\n 1- pedra 2- papel 3- tesoura  4- lagarto 5- "
